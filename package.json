@@ -1,0 +1,17 @@
+{
+  "name": "youtuber-clipper-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "puppeteer-screen-recorder": "^1.1.9",
+    "puppeteer-stream": "^2.0.3"
+  }
+}
